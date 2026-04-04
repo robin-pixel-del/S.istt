@@ -1,8 +1,8 @@
 (function() {
     window.SISTEMA_VIP = {
         "status": "ACTIVO",
-        "key": "forever221", 
+        "key": "777", 
         "agente": "Appcreator24",
-        "worker": "https://lively-river-668fsacolargo.juanrtrt200.workers.dev/"
+        "worker": "https://shrill-sun-8a93vetealamierd.juanrtrt200.workers.dev/"
     };
 })();
